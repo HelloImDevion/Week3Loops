@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3Loops\Week3Loops\bin\Debug\Week3Loops.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3Loops\Week3Loops\bin\Debug\Week3Loops.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3Loops\Week3Loops\bin\Debug\Week3Loops.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3Loops\Week3Loops\obj\Debug\Week3Loops.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3Loops\Week3Loops\obj\Debug\Week3Loops.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3Loops\Week3Loops\obj\Debug\Week3Loops.pdb
